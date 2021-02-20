@@ -1,4 +1,4 @@
-# Football Physio Assistant
+# Template with React written in Typescript with ReduxToolkit
 
 ## Development
 
